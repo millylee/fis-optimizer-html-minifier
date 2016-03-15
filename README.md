@@ -5,6 +5,8 @@ Compress htmlfile include inline script and inline style for fis
 
 ```
 git clone https://github.com/millylee/fis-optimizer-html-minifier.git
+cd fis-optimizer-html-minifier
+npm i
 ```
 ## Fis2
 
