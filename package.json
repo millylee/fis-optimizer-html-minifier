@@ -1,0 +1,28 @@
+{
+  "name": "fis-optimizer-html-minifier",
+  "version": "1.0.0",
+  "description": "Compress htmlfile include inline script and inline style for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/millylee/fis-optimizer-html-minifier.git"
+  },
+  "keywords": [
+    "compress",
+    "html"
+  ],
+  "author": "millylee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/millylee/fis-optimizer-html-minifier/issues"
+  },
+  "homepage": "https://github.com/millylee/fis-optimizer-html-minifier",
+  "dependencies": {
+    "html-minifier": "^1.2.0",
+    "clean-css": "^3.4.10",
+    "uglify-js": "^2.6.2"
+  }
+}
